@@ -1,0 +1,7 @@
+Instead of make folder under Gopath
+$ go mod init github.com/tensor-programming/
+golang-blockchain
+
+
+DB:
+No-SQL, only key: value
